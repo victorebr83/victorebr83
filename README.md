@@ -56,7 +56,7 @@ Acredito que segurança é mais do que ferramentas — é **disciplina, análise
 ---
 
 
-<a href="https://www.linkedin.com/in/pauloaugustoramos" target="_blank">
+<a href="https://www.linkedin.com/in/victoreduardorodrigues" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
 </a>
 <BR>
