@@ -1,5 +1,5 @@
 <!-- Banner / Cabeçalho -->
-<h1 align="center">👋 Olá, eu sou o <strong>Victor Eduardo B. Rodrigues</strong></h1>
+<h1 align="center">👋 <strong>Victor Eduardo B. Rodrigues</strong></h1>
 
 <p align="center">
   Cibersegurança | Redes | Administração de Servidores Windows / Linux | Segurança Perimetral  
