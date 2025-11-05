@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Sobre mim
+### Sobre mim
 
 Sou um profissional apaixonado por **tecnologia e segurança da informação**, com foco em **Cibersegurança, Redes e Servidores**.  
 Atuo com **firewalls, proxies e sistemas IDS/IPS**, sempre buscando fortalecer a infraestrutura e proteger ambientes corporativos.  
@@ -19,21 +19,21 @@ Acredito que segurança é mais do que ferramentas — é **disciplina, análise
 
 ### ⚙️ Tecnologias e Ferramentas
 
-#### 🧩 Segurança e Redes
+#### Segurança e Redes
 `Firewall` • `Proxy` • `IDS/IPS` • `pfSense` • `Snort` • `Suricata`
 
-#### 🐧 Servidores e Sistemas
+#### Servidores e Sistemas
 `Linux` • `FreeBSD` • `Windows Server` • `Asterisk`
 
-#### 💻 Linguagens e Automação
+#### Linguagens e Automação
 `Python` • `Bash` • `SQL`
 
-#### 🌐 Infraestrutura
+#### Infraestrutura
 `VLAN` • `VPN` • `DNS` • `DHCP` • `Routing` • `Switching`
 
 ---
 
-### 🌱 Atualmente estudando
+### Atualmente estudando
 - Defesa Cibernética e Pentest Ético  
 - Hardening de Servidores Linux e FreeBSD  
 - Automação de Segurança em Python  
