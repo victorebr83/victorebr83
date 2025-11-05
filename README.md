@@ -1,16 +1,64 @@
-## Hi there 👋
+<!-- Banner / Cabeçalho -->
+<h1 align="center">👋 Olá, eu sou o <strong>Victor Eduardo B. Rodrigues</strong></h1>
 
-<!--
-**victorebr83/victorebr83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Cibersegurança | Redes | Administração de Servidores Windows / Linux | Segurança Perimetral  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+Sou um profissional apaixonado por **tecnologia e segurança da informação**, com foco em **Cibersegurança, Redes e Servidores**.  
+Atuo com **firewalls, proxies e sistemas IDS/IPS**, sempre buscando fortalecer a infraestrutura e proteger ambientes corporativos.  
+
+Tenho experiência em **administração de servidores Linux e Windows**, além de interesse por **FreeBSD, automação em Python e hardening de sistemas**.  
+Acredito que segurança é mais do que ferramentas — é **disciplina, análise e boas práticas**.
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+#### 🧩 Segurança e Redes
+`Firewall` • `Proxy` • `IDS/IPS` • `pfSense` • `Snort` • `Suricata`
+
+#### 🐧 Servidores e Sistemas
+`Linux` • `FreeBSD` • `Windows Server` • `Asterisk`
+
+#### 💻 Linguagens e Automação
+`Python` • `Bash` • `SQL`
+
+#### 🌐 Infraestrutura
+`VLAN` • `VPN` • `DNS` • `DHCP` • `Routing` • `Switching`
+
+---
+
+### 🌱 Atualmente estudando
+- Defesa Cibernética e Pentest Ético  
+- Hardening de Servidores Linux e FreeBSD  
+- Automação de Segurança em Python  
+- Monitoramento de Logs e Análise de Incidentes  
+
+---
+
+### 🧩 Ferramentas que uso
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-1E90FF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+📧 **victoreb.rodrigues@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/victoreduardorodrigues/)  
+🧠 Sempre aprendendo e explorando novas formas de fortalecer a segurança digital.
+
+---
+
+<p align="center">💡 “A verdadeira segurança está em entender como o sistema pode falhar.”</p>
