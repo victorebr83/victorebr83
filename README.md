@@ -54,10 +54,11 @@ Acredito que segurança é mais do que ferramentas — é **disciplina, análise
 
 ---
 
-### 📫 Como me encontrar
-📧 **victoreb.rodrigues@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/victoreduardorodrigues/)  
-🧠 Sempre aprendendo e explorando novas formas de fortalecer a segurança digital.
+
+<a href="https://www.linkedin.com/in/pauloaugustoramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+</a>
+<BR>
 
 ---
 
