@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o <strong>Victor Eduardo B. Rodrigues</strong></h1>
 
 <p align="center">
-  💻 Cibersegurança | Redes | Administração de Servidores Windows / Linux | Segurança Perimetral  
+  Cibersegurança | Redes | Administração de Servidores Windows / Linux | Segurança Perimetral  
 </p>
 
 ---
@@ -13,6 +13,7 @@ Sou um profissional apaixonado por **tecnologia e segurança da informação**, 
 Atuo com **firewalls, proxies e sistemas IDS/IPS**, sempre buscando fortalecer a infraestrutura e proteger ambientes corporativos.  
 
 Tenho experiência em **administração de servidores Linux e Windows**, além de interesse por **FreeBSD, automação em Python e hardening de sistemas**.  
+
 Acredito que segurança é mais do que ferramentas — é **disciplina, análise e boas práticas**.
 
 ---
@@ -41,7 +42,7 @@ Acredito que segurança é mais do que ferramentas — é **disciplina, análise
 
 ---
 
-### 🧩 Ferramentas que uso
+### Ferramentas que uso
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"/>
